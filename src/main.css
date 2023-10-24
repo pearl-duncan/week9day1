@@ -1,3 +1,9 @@
 body {
-    background-color: blueviolet;
+    background-color: rgb(188, 131, 242);
+}
+
+div {
+    background-color: rgb(108, 227, 241);
+    color: black
+
 }
